@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0d5c3a639e205220","type":"text","text":"","x":-72,"y":61,"width":250,"height":60},
+		{"id":"eb6cbd12470d0e65","type":"text","text":"![[高中数学 课程标准日常修订版（2017年版2025年修订）.pdf]]","x":-962,"y":-411,"width":308,"height":306},
+		{"id":"2639ff150e5ae91b","type":"text","text":"we will","x":-1000,"y":-20,"width":250,"height":60},
+		{"id":"f72dd1bab3f276b7","type":"file","file":"欢迎.md","x":-950,"y":160,"width":400,"height":382}
+	],
+	"edges":[
+		{"id":"56fd17f6f2094468","fromNode":"eb6cbd12470d0e65","fromSide":"bottom","toNode":"2639ff150e5ae91b","toSide":"top"}
+	]
+}
